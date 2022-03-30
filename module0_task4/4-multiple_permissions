@@ -1,1 +1,1 @@
-chmod u+rwx,g+rx,o+r hello
+chmod u=rwx,g=rx,o=r hello
