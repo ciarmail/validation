@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awesome Inc.</title>
-    <link>http://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Awesome Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 08:15:51 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 21:07:26 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Awesome Inc.</title>
-      <link>http://example.org/posts/welcome/</link>
-      <pubDate>Fri, 08 Apr 2022 08:15:51 -0500</pubDate>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Fri, 08 Apr 2022 21:07:26 -0500</pubDate>
       
-      <guid>http://example.org/posts/welcome/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>Welcome to Awesome Inc.</description>
     </item>
     
   </channel>
