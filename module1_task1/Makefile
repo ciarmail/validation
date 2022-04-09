@@ -1,4 +1,5 @@
 build:
+	mkdir ./dist
 	hugo server -d ./dist/
 clean:
 	rm -r ./dist/*
