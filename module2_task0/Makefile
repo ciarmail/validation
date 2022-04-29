@@ -3,7 +3,7 @@ build: ##Compilacion de codigo fuente
 run: ##Ejecucion del binario awesome-api
 	./awesome-api >./awesome.log 2>&1 &
 stop: ##Detenido de aplicacion con comando kill
-	kill '$(pgrep awesome-api)'
+	kill $$(pgrep awesome-api)
 clean: ##Borrado del binario awesome-api y del log
 	rm awesome*
 test: ##Comprobar el funcionamiento esperado de la app
